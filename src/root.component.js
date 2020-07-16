@@ -9,7 +9,7 @@ export default function Root(props) {
     <Container className="pt-4">
       <Row>
         <Col>
-          <h1 className="h2">Course</h1>
+          <h1 className="h2">Courseware</h1>
           <p className="lead">{props.name} is mounted!</p>
         </Col>
       </Row>
